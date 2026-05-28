@@ -1,2 +1,1 @@
-# QUIZ_GAME
-QUIZ GAME
+Developed a desktop-based Quiz Game Management System using VB.NET and MySQL with a user-friendly and interactive interface. The application includes separate admin and user login modules, where users can attempt quizzes, view scores, and track performance, while admins can add, update, and manage quiz questions, answers, and participant records. The project features database connectivity, score calculation, result management, and secure data handling, making it a complete quiz management solution built in Visual Studio.
